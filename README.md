@@ -8,7 +8,6 @@ A wrapper of [Syncthing](https://github.com/syncthing/syncthing) for Android.
 
 As the project is currently in the middle of a migration, the recommended and most stable installation method is the Play Store release. APKs for future versions and manual installation will soon become available in the Releases section.
 The future of the F-Droid repository is still under review.
-I'm currently short on time. Please seek help on the forum and/or social media apps first before consuming my time moderating issues on the tracker here.
 During this transition period, please be patient and look for help on the forum and/or social media channels first before opening issues here.
 
 <img src="app/src/main/play/listings/en-US/graphics/phone-screenshots/1.png" alt="screenshot 1" width="200" /> · <img src="app/src/main/play/listings/en-US/graphics/phone-screenshots/2.png" alt="screenshot 2" width="200" /> · <img src="app/src/main/play/listings/en-US/graphics/phone-screenshots/4.png" alt="screenshot 3" width="200" />
