@@ -1,4 +1,4 @@
-Syncthing-Fork "Wrapper for Syncthing" has these release channels:
+Syncthing "Wrapper for Syncthing" has these release channels:
 
 <b>1. GitHub and F-Droid release build</b>
 

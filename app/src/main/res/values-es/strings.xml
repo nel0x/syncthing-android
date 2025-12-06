@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">Syncthing-Fork</string>
+    <string name="app_name">Syncthing</string>
     <string name="app_description">Una aplicación de sincronización de ficheros abierta, de confianza y descentralizada.</string>
     <!-- FirstStartActivity -->
     <!-- Title for dialog displayed on first start -->
@@ -43,7 +43,7 @@
     <string name="refresh">Refrescar</string>
     <!-- PhotoShootActivity -->
     <string name="photo_shoot_launcher_title">Sincronización. Cámara</string>
-    <string name="photo_shoot_activity_title">Cámara de Syncthing-Fork</string>
+    <string name="photo_shoot_activity_title">Cámara de Syncthing</string>
     <string name="photo_shoot_intro_welcome_title">Bienvenido a la Cámara Syncthing</string>
     <string name="photo_shoot_intro_permission_title">Permisos requeridoa</string>
     <string name="photo_shoot_intro_no_camera">Lo lamentamos, este dispositivo no tiene cámara.</string>
@@ -280,9 +280,9 @@
 \nConfirmado que funciona para: Huawei P10</string>
     <string name="tip_phone_ip_address_syntax">PHONE_IP_ADDRESS</string>
     <string name="tip_xiaomi_autostart_title">Xiaomi: la aplicación no se inicia al arrancar el sistema</string>
-    <string name="tip_xiaomi_autostart_text">Xiaomi MIUI no permite que las aplicaciones se inicien solas por defecto. Desde la pantalla de inicio, ve a \"Ajustes\" &gt; \"Permisos\" &gt; \"Autoinicio\" y activa el control deslizante de \"Syncthing-Fork\".</string>
+    <string name="tip_xiaomi_autostart_text">Xiaomi MIUI no permite que las aplicaciones se inicien solas por defecto. Desde la pantalla de inicio, ve a \"Ajustes\" &gt; \"Permisos\" &gt; \"Autoinicio\" y activa el control deslizante de \"Syncthing\".</string>
     <string name="tip_xiaomi_battery_saver_title">Xiaomi: la aplicación muestra repetidamente la pantalla de bienvenida</string>
-    <string name="tip_xiaomi_battery_saver_text">La aplicación de ahorro de batería del sistema de Xiaomi MIUI revoca el permiso de \"ignorar la optimización de la batería\" de la aplicación en cada reinicio del teléfono. Esto hace que la aplicación muestre la pantalla de bienvenida y pida de nuevo el permiso obligatorio faltante. Solución: Desde la pantalla de inicio, abre las opciones de la aplicaciones &gt; Mantén pulsado \"Syncthing-Fork\" &gt; \"Información de la aplicación\" &gt; \"Ahorro de batería\" y selecciona \"Sin restricciones\" (MIUI 10.3.2.0+).</string>
+    <string name="tip_xiaomi_battery_saver_text">La aplicación de ahorro de batería del sistema de Xiaomi MIUI revoca el permiso de \"ignorar la optimización de la batería\" de la aplicación en cada reinicio del teléfono. Esto hace que la aplicación muestre la pantalla de bienvenida y pida de nuevo el permiso obligatorio faltante. Solución: Desde la pantalla de inicio, abre las opciones de la aplicaciones &gt; Mantén pulsado \"Syncthing\" &gt; \"Información de la aplicación\" &gt; \"Ahorro de batería\" y selecciona \"Sin restricciones\" (MIUI 10.3.2.0+).</string>
     <!-- RecentChangesActivity -->
     <string name="no_recent_changes">No hay cambios recientes.</string>
     <string name="recent_changes_title">Cambios recientes</string>
@@ -461,12 +461,12 @@
     <!-- Settings item that opens issue tracker -->
     <string name="report_issue_title">Informar de un problema</string>
     <!-- Summary for the issue tracker settings item -->
-    <string name="open_issue_tracker_summary">Abre el sistema de incidencias de Syncthing-Fork en %1$s</string>
+    <string name="open_issue_tracker_summary">Abre el sistema de incidencias de Syncthing en %1$s</string>
     <!-- Menu item to donate -->
     <!-- Title of the preference showing upstream version name -->
     <string name="syncthing_version_title">Versión de Syncthing</string>
     <!-- Title of the preference showing this app's version name -->
-    <string name="app_version_title">Versión del wrapper de Syncthing-Fork</string>
+    <string name="app_version_title">Versión del wrapper de Syncthing</string>
     <!-- Title of the preference showing the REST API key -->
     <string name="syncthing_api_key">Clave API de Syncthing (pulsa para copiar)</string>
     <!-- Shown when the API key is copied to the clipboard -->

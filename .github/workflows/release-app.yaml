@@ -106,7 +106,7 @@ jobs:
 
       - name: build_release
         env:
-          SYNCTHING_RELEASE_KEY_ALIAS: Syncthing-Fork
+          SYNCTHING_RELEASE_KEY_ALIAS: Syncthing
           SIGNING_PASSWORD: '${{ secrets.SIGNING_PASSWORD }}'
           SYNCTHING_RELEASE_STORE_FILE: '${{ runner.temp }}/signing-keystore.jks'
         shell: bash
@@ -151,7 +151,7 @@ jobs:
         with:
           artifacts: "app/build/outputs/apk/release/*.apk,app/build/outputs/apk/release/*.asc,app/build/outputs/bundle/release/*.aab"
           artifactErrorsFailBuild: true
-          name: Syncthing-Fork v${{ env.VERSION }}
+          name: Syncthing v${{ env.VERSION }}
           bodyFile: "app/src/main/play/release-notes/en-US/default.txt"
           prerelease: ${{ contains('-rc.', github.ref_name) }}
           draft: true

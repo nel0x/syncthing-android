@@ -9,9 +9,9 @@ Dit is een fork van de Syncthing-Android-wrapper voor Syncthing die belangrijke 
 * Ontdek andere Syncthing-apparaten op hetzelfde netwerk en voeg ze eenvoudig toe.
 * Ondersteunt tweerichtingssynchronisatie op externe SD-kaart sinds Android 11.
 
-Syncthing-Fork voor Android is een wrapper voor Syncthing die een Android-UI biedt in plaats van de ingebouwde web-UI van Syncthing. Syncthing vervangt propriëtaire synchronisatie- en clouddiensten door iets open, betrouwbaars en gedecentraliseerd. Uw gegevens zijn alleen van u en u verdient het om te kiezen waar ze worden opgeslagen, of ze worden gedeeld met derden en hoe ze via internet worden verzonden.
+Syncthing voor Android is een wrapper voor Syncthing die een Android-UI biedt in plaats van de ingebouwde web-UI van Syncthing. Syncthing vervangt propriëtaire synchronisatie- en clouddiensten door iets open, betrouwbaars en gedecentraliseerd. Uw gegevens zijn alleen van u en u verdient het om te kiezen waar ze worden opgeslagen, of ze worden gedeeld met derden en hoe ze via internet worden verzonden.
 
-Zoek eerst hulp op het forum en/of sociale media-apps voordat u issues aanmaakt op de tracker. Houd er rekening mee dat Syncthing-Fork is ontstaan uit persoonlijke interesse om familie en vrienden te helpen Syncthing op Android te gebruiken. Het was niet bedoeld voor de momenteel meer dan 100.000 gebruikers, ook al worden de resultaten met u en de community gedeeld. Hartelijk dank.
+Zoek eerst hulp op het forum en/of sociale media-apps voordat u issues aanmaakt op de tracker. Houd er rekening mee dat Syncthing is ontstaan uit persoonlijke interesse om familie en vrienden te helpen Syncthing op Android te gebruiken. Het was niet bedoeld voor de momenteel meer dan 100.000 gebruikers, ook al worden de resultaten met u en de community gedeeld. Hartelijk dank.
 
 Website: https://github.com/Catfriend1/syncthing-android
 
