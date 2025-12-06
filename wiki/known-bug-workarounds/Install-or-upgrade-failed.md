@@ -27,8 +27,8 @@ If that didn't solve the problem, you could try this workaround:
 ```
 adb uninstall com.github.catfriend1.syncthingandroid
 adb uninstall com.github.catfriend1.syncthingandroid.debug
-adb uninstall com.github.catfriend1.syncthingfork
-adb uninstall com.github.catfriend1.syncthingfork.debug
+adb uninstall com.github.catfriend1.syncthingandroid
+adb uninstall com.github.catfriend1.syncthingandroid.debug
 ```
 - Phone
   - Install latest release

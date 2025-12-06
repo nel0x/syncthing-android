@@ -12,7 +12,7 @@ AutoName: Syncthing-Fork
 
 RepoType: git
 Repo: https://github.com/Catfriend1/syncthing-android.git
-Binaries: https://github.com/Catfriend1/syncthing-android/releases/download/v%v/com.github.catfriend1.syncthingfork_release_v%v.apk
+Binaries: https://github.com/Catfriend1/syncthing-android/releases/download/v%v/com.github.catfriend1.syncthingandroid_release_v%v.apk
 
 Builds:
   - versionName: 2.0.10.1
