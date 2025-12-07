@@ -31,7 +31,7 @@ The developer doesn't collect personally identifiable data while the software is
 
 
 ## Security Of Data
-The security of your information is imperative, however, recall that no strategy for transmission over the internet, or technique for electronic capacity is 100% secure. Therefore the developer doesn't ensure its supreme security. Syncthing is a wrapper and graphical interface for Syncthing. It does not transmit your files over the network as this is handled by the previously mentioned [Syncthing module](https://github.com/syncthing/syncthing/releases). If you believe you've found a Syncthing-related security vulnerability, please contact the Syncthing team at [https://syncthing.net/security.html](https://syncthing.net/security.html).
+The security of your information is imperative, however, recall that no strategy for transmission over the internet, or technique for electronic capacity is 100% secure. Therefore the developer doesn't ensure its supreme security. Syncthing Android is a wrapper and graphical interface for Syncthing. It does not transmit your files over the network as this is handled by the previously mentioned [Syncthing module](https://github.com/syncthing/syncthing/releases). If you believe you've found a Syncthing-related security vulnerability, please contact the Syncthing team at [https://syncthing.net/security.html](https://syncthing.net/security.html).
 
 
 ## Age Restrictions
